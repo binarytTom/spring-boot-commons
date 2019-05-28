@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration status="WARN"  monitorInterval="30">
+    <!--<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"  href="log4j2_app.xml" />  -->
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"  href="log4j2_property.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"  href="log4j2_appenders.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"  href="log4j2_loggers.xml" />
+</configuration>

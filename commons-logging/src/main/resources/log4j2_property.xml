@@ -1,0 +1,8 @@
+<Properties>
+    <property name="DEFAULT_CHARSET" value="utf8" />
+    <property name="DEFAULT_LOG_PATH_INFO" value="logs/${sys:project.name}/${sys:project.name}.log" />
+    <property name="DEFAULT_LOG_PATH_INFO_PATTERN" value="logs/${sys:project.name}/${sys:project.name}.%d{yyyy-MM-dd}-%i.log" />
+    <property name="DEFAULT_LOG_PATH_WARN" value="logs/${sys:project.name}/${sys:project.name}.wf.log" />
+    <property name="DEFAULT_LOG_PATH_WARN_PATTERN" value="logs/${sys:project.name}/${sys:project.name}.wf.%d{yyyy-MM-dd}-%i.log" />
+    <property name="DEFAULT_LOG_PATTERN" value="%level: %d{yyyy-MM-dd HH:mm:ss} logId[%y] [%thread] %logger{50}:%L - %msg%n" />
+</Properties>

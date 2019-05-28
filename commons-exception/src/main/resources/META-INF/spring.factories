@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+cn.binarytom.spring.commons.exception.GlobalExceptionAutoConfiguration
